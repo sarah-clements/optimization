@@ -16,12 +16,12 @@ All assets provided by Udacity
 * javascript minified
 
 ####main.js
-* removed determineDX in changePizzaSizes and optimized the for loop
+* removed determineDX in changePizzaSizes and optimized the for-loop
 * querySelector replaced with GetElement where applicable
 * pizza container given its own layer (CSS)
 * moved var items and var phase outside of updatePositions for loop
 * generation of background pizzas was optimized based on the screen.height & screen.width properties
-* var elem and movingPizzas1 selector moved outside of the sliding pizza/eventlistener function
+* var elem and movingPizzas1 selector moved outside of the background pizza/eventlistener for-loop
 
 
 ###How to observe this project's PageSpeed Insights score
